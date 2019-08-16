@@ -109,3 +109,31 @@ h2 {
   font-weight: lighter;
   margin-left: 50px;
 }
+
+@media (max-width: 1000px) {
+
+  .SNS {
+    width: 350px;
+  }
+
+  .sns {
+    padding: 0px 20px!important;
+  }
+
+  h1 {
+    font-size: 30px!important;
+    width: 300px!important;
+    margin-left: 20px!important;
+  }
+
+  .スポーツpic {
+    height: 250px!important;
+    margin: 50px 50px 50px 50px!important;
+  }
+
+  h2 {
+    font-size: 23px!important;
+  }
+
+
+}
